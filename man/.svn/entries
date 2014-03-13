@@ -1,0 +1,86 @@
+10
+
+dir
+227
+https://stanley.cdf.toronto.edu/svn/csc369-2012-09/Group13/a4/src/man
+https://stanley.cdf.toronto.edu/svn/csc369-2012-09/Group13
+
+
+
+2012-11-29T01:05:35.787660Z
+144
+g2scotts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1e0cbd04-b4ae-4e92-9fa6-ce23b0abe8ed
+
+bin
+dir
+
+testbin
+dir
+
+libc
+dir
+
+syscall
+dir
+
+toplevel
+dir
+
+misc
+dir
+
+sbin
+dir
+
+Makefile
+file
+
+
+
+
+2012-11-29T19:24:38.000000Z
+8a20b01ed1e634437efc912d2534e1c2
+2012-11-29T01:05:35.787660Z
+144
+g2scotts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+183
+
+dev
+dir
+

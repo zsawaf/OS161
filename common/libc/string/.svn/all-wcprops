@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string
+END
+bzero.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string/bzero.c
+END
+strcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string/strcpy.c
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string/memmove.c
+END
+strchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string/strchr.c
+END
+strlen.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string/strlen.c
+END
+strrchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string/strrchr.c
+END
+strtok_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string/strtok_r.c
+END
+strcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string/strcmp.c
+END
+memcpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string/memcpy.c
+END
+strcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/common/libc/string/strcat.c
+END

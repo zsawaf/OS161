@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/arch/mips/locore
+END
+trap.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/arch/mips/locore/trap.c
+END
+cache-mips161.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/arch/mips/locore/cache-mips161.S
+END
+exception-mips1.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/arch/mips/locore/exception-mips1.S
+END

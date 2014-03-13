@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/lib/hostcompat
+END
+err.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/lib/hostcompat/err.c
+END
+host-err.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/lib/hostcompat/host-err.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/lib/hostcompat/Makefile
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/lib/hostcompat/time.c
+END
+hostcompat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/lib/hostcompat/hostcompat.c
+END
+hostcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/lib/hostcompat/hostcompat.h
+END

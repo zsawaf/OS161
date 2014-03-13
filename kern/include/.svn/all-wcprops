@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/csc369-2012-09/Group13/!svn/ver/217/a4/src/kern/include
+END
+limits.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/limits.h
+END
+threadlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/threadlist.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/types.h
+END
+thread.h.orig
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/thread.h.orig
+END
+elf.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/elf.h
+END
+syscall.h.orig
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/syscall.h.orig
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/syscall.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/stat.h
+END
+vmprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/vmprivate.h
+END
+array.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/array.h
+END
+emufs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/emufs.h
+END
+spinlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/spinlock.h
+END
+thread.h.safe
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/thread.h.safe
+END
+cdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/cdefs.h
+END
+addrspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/addrspace.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/cpu.h
+END
+copyinout.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/copyinout.h
+END
+sfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2012-09/Group13/!svn/ver/161/a4/src/kern/include/sfs.h
+END
+vfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/vfs.h
+END
+spl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/spl.h
+END
+device.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/device.h
+END
+wchan.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/wchan.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/setjmp.h
+END
+threadprivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/threadprivate.h
+END
+lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/lib.h
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2012-09/Group13/!svn/ver/212/a4/src/kern/include/thread.h
+END
+fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/fs.h
+END
+vnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/vnode.h
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/bitmap.h
+END
+pid.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/pid.h
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/signal.h
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/test.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2012-09/Group13/!svn/ver/213/a4/src/kern/include/file.h
+END
+vm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/vm.h
+END
+current.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/current.h
+END
+synch.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/synch.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/stdarg.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/version.h
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/clock.h
+END
+uio.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/uio.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/endian.h
+END
+mainbus.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/kern/include/mainbus.h
+END

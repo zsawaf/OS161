@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/csc369-2012-09/Group13/!svn/ver/161/a4/src/user/testbin/f_test
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/testbin/f_test/Makefile
+END
+f_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/testbin/f_test/f_write.c
+END
+f_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/testbin/f_test/f_read.c
+END
+f_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/testbin/f_test/f_test.c
+END
+f_hdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/csc369-2012-09/Group13/!svn/ver/144/a4/src/user/testbin/f_test/f_hdr.h
+END

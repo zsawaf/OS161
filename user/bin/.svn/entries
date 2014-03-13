@@ -1,0 +1,104 @@
+10
+
+dir
+227
+https://stanley.cdf.toronto.edu/svn/csc369-2012-09/Group13/a4/src/user/bin
+https://stanley.cdf.toronto.edu/svn/csc369-2012-09/Group13
+
+
+
+2012-11-30T20:21:41.265032Z
+190
+c0ojhaph
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1e0cbd04-b4ae-4e92-9fa6-ce23b0abe8ed
+
+ln
+dir
+
+sh
+dir
+
+sync
+dir
+
+Makefile
+file
+
+
+
+
+2012-11-29T19:24:53.000000Z
+5ec6173b8225f4c115c3f61bef05ffd5
+2012-11-29T01:05:35.787660Z
+144
+g2scotts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+221
+
+rmdir
+dir
+
+rm
+dir
+
+ls
+dir
+
+true
+dir
+
+mv
+dir
+
+pwd
+dir
+
+psh
+dir
+
+false
+dir
+
+cp
+dir
+
+mkdir
+dir
+
+cat
+dir
+
